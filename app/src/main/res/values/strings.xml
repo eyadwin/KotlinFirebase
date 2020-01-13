@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinFirebase</string>
+    <string name="name">Name</string>
+    <string name="send">Send</string>
+</resources>

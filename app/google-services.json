@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120176702921",
+    "firebase_url": "https://chatapp-e3dfc.firebaseio.com",
+    "project_id": "chatapp-e3dfc",
+    "storage_bucket": "chatapp-e3dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120176702921:android:b6e8b65a191e04ad",
+        "android_client_info": {
+          "package_name": "com.example.kotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120176702921-gn4dcqfmtb3vdailu74m3074und550fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vSF-UAUOFrfUv4X1F5NscgInA6dm0dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120176702921-gn4dcqfmtb3vdailu74m3074und550fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
